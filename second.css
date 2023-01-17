@@ -1,0 +1,34 @@
+#a{
+    border: 2px solid ;
+    width: 1000px;
+    height: 800px;
+}
+#b{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    padding: 20px;
+}
+#c{
+    background-color: darkred;
+    width: 200px;
+    height: 200px;
+    border: 20px solid black ;
+    position: relative;
+    left: 260px;
+}
+#d{
+    background-color: darkblue;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    position: relative;
+    left: 500px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
